@@ -7,8 +7,8 @@ Resposta ao desafio iSharedLife
 
 <i>Incluido:<i> 
 
-Vídeos relacionados
-Reload descendo a tabela
+Vídeos relacionados</>
+Reload descendo a tabela</>
 
 
 <i>Melhorias pensadas para a próxima versão:</i>
