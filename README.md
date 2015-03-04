@@ -1,18 +1,18 @@
 # iDentVinicius
-Resposta ao desafio iSharedLife
+Resposta ao desafio iSharedLife<br><br>
 
 
-<h3>Feito em Swift</h3>
+<h3>Feito em Swift</h3><br><br>
 
 
-<i>Incluido:<i> 
+<i>Incluido:<i> <br><br>
 
-Vídeos relacionados</>
-Reload descendo a tabela</>
+Vídeos relacionados<br>
+Reload descendo a tabela<br>
 
 
-<i>Melhorias pensadas para a próxima versão:</i>
+<i>Melhorias pensadas para a próxima versão:</i><br>
 
-Check de internet
-Banco de dados local
+Check de internet<br>
+Banco de dados local<br>
 
